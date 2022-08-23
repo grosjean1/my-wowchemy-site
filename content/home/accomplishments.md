@@ -41,14 +41,14 @@ item:
 - #certificate_url: https://www.datacamp.com
   date_end: ""
   date_start: "2022-03-31"
-  description: "Biomedical problem: Meniscus regeneration, cell and tissue-level phenomena. \\
+  description: "Biomedical problem: Meniscus regeneration, multiscale modeling of tissue phenomena. \\
         
 	** Implement PDEs in FreeFem++ representing a nonwoven scaffold in a novel 3D printed perfusion chamber which is integrated in a bioreactor that allows in-vitro investigations of scaffolds in interaction with chondrocytes and adipose tissue-derived stem cells \\
 
-        ** Sensitivity analysis of the parameters with model order reduction techniques"
+        ** Sensitivity analysis of the parameters with model order reduction techniques (compared to real data)"
   organization: Felix-Klein-Institut für Mathematik
   #organization_url: https://www.datacamp.com
-  title: 'Implementation of a DG 3D problem for meniscus regeneration '
+  title: 'Implementation of a DG 3D problem for meniscus tissue regeneration '
   #url: "https://github.com/grosjean1/navierStokes"
   
 ---

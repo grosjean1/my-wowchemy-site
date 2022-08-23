@@ -23,7 +23,8 @@ bio: My research interests include numerics, P.D.E analysis, Reduced basis metho
 # Interests to show in About widget
 interests:
 - Finite elements/volume methods
-- Computational Langages
+- Computational Languages
+- Simulations of highly parameterized models from Physics/Biology 
 - Function approximations
 - Reduced Order methods
 
