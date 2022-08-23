@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "A doubly reduced approximation for the solution to PDEs based on a domain truncation and a reduced basis method: Application to Navier-Stokes equations"
+title: "A doubly reduced approximation for the solution to PDEs based on a domain truncation and a reduced basis method: Application to Navier-Stokes equations (preprint)"
 authors:
 - admin
 - Yvon Maday
