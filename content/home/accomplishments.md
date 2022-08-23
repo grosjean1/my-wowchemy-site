@@ -29,7 +29,7 @@ item:
   description: Contribute to an online library with EDF and other partners on non intrusive reduced basis method in Python and C++.
   organization: LJLL
   title: Non intrusive reduced basis module.
-  url: ""
+  url: "https://gitlab.com/mor_dicus/mordicus"
 - #certificate_url: https://www.datacamp.com
   date_end: ""
   date_start: "2018-03-31"
