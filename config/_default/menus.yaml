@@ -33,3 +33,7 @@ main:
     url: uploads/thesis.pdf
     weight: 80
 
+
+  -name = "index"  # A link title for your page.
+  url = "media/google0eca90bf5d4cf0c4.html"  # The URL of your page.
+  weight = 110  # The position of your page in the menu.
