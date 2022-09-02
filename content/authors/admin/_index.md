@@ -33,7 +33,7 @@ interests:
 education:
   courses:
   - course: PhD in Applied Mathematics
-    institution: Jacques-Louis Lions laboratory (LJLL)
+    institution: [Jacques-Louis Lions laboratory (LJLL)](https://www.ljll.math.upmc.fr/)
     year: 11/2018-03/2022
   - course: Master in modeling mathematics
     institution: Pierre et Marie Curie university (UPMC)
@@ -67,7 +67,7 @@ social:
 
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "grosjean@mathematik.uni-kl.de"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false

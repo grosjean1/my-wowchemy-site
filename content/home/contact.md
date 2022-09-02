@@ -25,7 +25,7 @@ content:
       captcha: false
 
   # Contact details (edit or remove options as required)
-  email: elise.grosjean@mathematik.uni-kl.de
+  email: grosjean@mathematik.uni-kl.de
   #phone: 888 888 88 88
   address:
     street: Kaiserslautern TU 
