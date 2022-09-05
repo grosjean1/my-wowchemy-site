@@ -33,7 +33,7 @@ interests:
 education:
   courses:
   - course: PhD in Applied Mathematics
-    institution: Jacques-Louis Lions laboratory [(LJLL)](https://www.ljll.math.upmc.fr/)
+    institution: Jacques-Louis Lions laboratory (LJLL)
     year: 11/2018-03/2022
   - course: Master in modeling mathematics
     institution: Pierre et Marie Curie university (UPMC)
