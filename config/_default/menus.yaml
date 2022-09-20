@@ -33,6 +33,6 @@ main:
     url: uploads/thesis.pdf
     weight: 80
 
-  - name: CV
+  - name: google
     url: google0eca90bf5d4cf0c4.html
     weight: 100
