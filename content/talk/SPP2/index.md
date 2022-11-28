@@ -1,17 +1,17 @@
 ---
-title: SPP2311-Kick-off2
+title: talk
 
 event: SPP2311-Kick-off2
-event_url: "https://morss2020.epfl.ch/"
+event_url: 
 
-location: Stuttgart
+location: 
 
 summary: Coupled analysis of active biological processes for meniscus tissue regeneration
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2022-11-23"
-date_end: "2022-11-24"
+date: "2022-10-3"
+date_end: "2022-10-4"
 all_day: true
 
 # Schedule page publish date (NOT talk date).
@@ -48,5 +48,3 @@ url_video: ""
 
 ---
 
-- **Presentation** on the numerical aspects of a Coupled analysis of active biological processes for meniscus tissue regeneration
-[*Program*](https://www.spp2311.uni-stuttgart.de/en/)
