@@ -1,17 +1,17 @@
 ---
-title: talk
+title: MAP5 Groupe de travail Modélisation, Analyse, Simulation
 
-event: SPP2311-Kick-off2
+event: MAP5-Seminaire
 event_url: 
 
 location: 
 
-summary: Coupled analysis of active biological processes for meniscus tissue regeneration
+summary: meniscus tissue regeneration - sensibility analysis - non-intrusive reduced basis method
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2022-10-3"
-date_end: "2022-10-4"
+date: "2022-11-25"
+date_end: "2022-11-26"
 all_day: true
 
 # Schedule page publish date (NOT talk date).
@@ -24,7 +24,7 @@ tags: []
 featured: true
 
 image:
-  caption: 'kickoff'
+  caption: 'map5'
   focal_point: Smart
 
 links:
@@ -48,3 +48,5 @@ url_video: ""
 
 ---
 
+- [**Abstract**](https://map5.mi.parisdescartes.fr/seminairesMAP5/exposes/elise-grosjean-felix-klein-zentrum-fur-mathematik-tuk-kaiserslautern-germany/)
+- [**Slides**](media/SlidesMAP5.pdf)
