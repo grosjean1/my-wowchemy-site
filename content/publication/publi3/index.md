@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Error estimate of the Non-Intrusive Reduced Basis (NIRB) two-grid method with parabolic equations (upcoming)"
+title: "Error estimate of the Non-Intrusive Reduced Basis (NIRB) two-grid method with parabolic equations (preprint)"
 authors:
 - admin
 - Yvon Maday
