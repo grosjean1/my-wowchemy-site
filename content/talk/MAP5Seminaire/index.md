@@ -1,21 +1,22 @@
 ---
-title: MAP5 Groupe de travail Modélisation, Analyse, Simulation
+title: CANUM 2022
 
-event: Séminaire du MAP5
-event_url: "https://map5.mi.parisdescartes.fr/seminairesMAP5/exposes/elise-grosjean-felix-klein-zentrum-fur-mathematik-tuk-kaiserslautern-germany/"
+event: Congrès National d'Analyse Numérique 2022
+event_url: "https://indico.math.cnrs.fr/event/6098/contributions/4869/"
+
 
 location: Paris
 
-summary: Présentation sur la méthode de bases réduites 2-grilles appliquée à l'analyse de sensibilité
+summary:
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2022-11-25"
-date_end: "2022-11-25"
+date: "2022-06-13"
+date_end: "2022-06-17"
 all_day: true
 
 # Schedule page publish date (NOT talk date).
-#publishDate: "2022-11-01T00:00:00Z"
+#publishDate: ""
 
 authors: [Elise Grosjean]
 tags: []
@@ -24,13 +25,13 @@ tags: []
 featured: true
 
 image:
-  caption: 'MAP5'
+  caption: 'Canum22'
   focal_point: Smart
 
-links: 
+links:
 
 url_code: ""
-url_pdf: "media/SlidesMAP5.pdf"
+url_pdf: "media/slidesCANUM22.pdf"
 url_slides: ""
 url_video: ""
 
@@ -48,4 +49,4 @@ url_video: ""
 
 ---
 
-- [**Presentation**](media/SlidesMAP5.pdf) on the non-intrusive reduced basis 2-grids method applied to sensibility analysis.
+- [*Talk*](https://canum2020.math.cnrs.fr/accueil/) on non-intrusive reduced basis methods applied to parabolic equations.
