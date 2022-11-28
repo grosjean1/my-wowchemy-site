@@ -27,7 +27,7 @@ image:
   caption: 'GTT'
   focal_point: Smart
 
-links: "https://map5.mi.parisdescartes.fr/seminairesMAP5/exposes/elise-grosjean-felix-klein-zentrum-fur-mathematik-tuk-kaiserslautern-germany/"
+links: 
 
 url_code: ""
 url_pdf: "media/SlidesMAP5.pdf"
@@ -49,3 +49,4 @@ url_video: ""
 ---
 
 - [**Presentation**](media/SlidesMAP5.pdf) on the non-intrusive reduced basis 2-grids method applied to sensibility analysis.
+-[** Abstract **](https://map5.mi.parisdescartes.fr/seminairesMAP5/exposes/elise-grosjean-felix-klein-zentrum-fur-mathematik-tuk-kaiserslautern-germany/)
