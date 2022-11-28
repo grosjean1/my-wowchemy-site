@@ -1,12 +1,12 @@
 ---
-title: MAP5 Groupe de travail Modélisation, Analyse, Simulation
+title: MAP5 Groupe de travail Modelisation, Analyse, Simulation
 
 event: MAP5-Seminaire
 event_url: 
 
 location: 
 
-summary: meniscus tissue regeneration - sensibility analysis - non-intrusive reduced basis method
+summary: Meniscus tissue regeneration - sensibility analysis - non-intrusive reduced basis method
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -30,7 +30,7 @@ image:
 links:
 
 url_code: ""
-url_pdf: ""
+url_pdf: "media/SlidesMAP5.pdf"
 url_slides: ""
 url_video: ""
 
@@ -49,4 +49,3 @@ url_video: ""
 ---
 
 - [**Abstract**](https://map5.mi.parisdescartes.fr/seminairesMAP5/exposes/elise-grosjean-felix-klein-zentrum-fur-mathematik-tuk-kaiserslautern-germany/)
-- [**Slides**](media/SlidesMAP5.pdf)
