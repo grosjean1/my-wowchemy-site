@@ -1,21 +1,21 @@
 ---
-title: MAP5 Groupe de travail Modélisation, Analyse, Simulation
+title: Tutor at l'école nationale de la statistique et de l'administration économique (ENSAE)
 
-event: Séminaire du MAP5
-event_url: "https://map5.mi.parisdescartes.fr/seminairesMAP5/exposes/elise-grosjean-felix-klein-zentrum-fur-mathematik-tuk-kaiserslautern-germany/"
+event: Numerical analysis and applications
+event_url: https://www.ensae.fr/courses/analyse-numerique-et-applications/
 
-location: Paris
+location: Saclay
 
-summary: Présentation sur la méthode de bases réduites 2-grilles appliquée à l'analyse de sensibilité
+#summary: 
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2022-11-25"
-date_end: "2022-11-25"
+date: "2020-01-01"
+date_end: "2020-05-01"
 all_day: true
 
 # Schedule page publish date (NOT talk date).
-#publishDate: "2022-11-01T00:00:00Z"
+#publishDate: "2017-01-01T00:00:00Z"
 
 authors: [Elise Grosjean]
 tags: []
@@ -24,13 +24,13 @@ tags: []
 featured: true
 
 image:
-  caption: 'MAP5'
-  focal_point: Smart
+  caption: 'ensae'
+  focal_point: Right
 
-links: 
+links:
 
 url_code: ""
-url_pdf: "media/SlidesMAP5.pdf"
+url_pdf: ""
 url_slides: ""
 url_video: ""
 
@@ -48,4 +48,4 @@ url_video: ""
 
 ---
 
-- [**Presentation**](media/SlidesMAP5.pdf) on the non-intrusive reduced basis 2-grids method applied to sensibility analysis.
+[Website](https://www.ensae.fr/courses/analyse-numerique-et-applications/)
