@@ -1,8 +1,8 @@
 ---
-title: MAP5 Groupe de travail Modélisation, Analyse & Simulation
+title: MAP5 Groupe de travail Modélisation, Analyse, Simulation
 
 event: Séminaire du MAP5
-event_url: "https://www.ljll.math.upmc.fr/gtt/archives.php"
+event_url: "https://map5.mi.parisdescartes.fr/seminairesMAP5/exposes/elise-grosjean-felix-klein-zentrum-fur-mathematik-tuk-kaiserslautern-germany/"
 
 location: Paris
 
@@ -11,7 +11,7 @@ summary: Présentation sur la méthode de bases réduites 2-grilles appliquée �
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: "2022-11-25"
-date_end: ""
+date_end: "2022-11-25"
 all_day: true
 
 # Schedule page publish date (NOT talk date).
@@ -24,7 +24,7 @@ tags: []
 featured: true
 
 image:
-  caption: 'GTT'
+  caption: 'MAP5'
   focal_point: Smart
 
 links: 
@@ -49,4 +49,3 @@ url_video: ""
 ---
 
 - [**Presentation**](media/SlidesMAP5.pdf) on the non-intrusive reduced basis 2-grids method applied to sensibility analysis.
--[** Abstract **](https://map5.mi.parisdescartes.fr/seminairesMAP5/exposes/elise-grosjean-felix-klein-zentrum-fur-mathematik-tuk-kaiserslautern-germany/)
