@@ -1,17 +1,17 @@
 ---
-title: Tutor at Department of Mathematics, TU Kaiserslautern
+title: MAP5 Groupe de travail Modélisation, Analyse, Simulation
 
-event: Differential-Algebraic Equations
-event_url: https://www.mathematik.uni-kl.de/en/das/teaching
+event: Séminaire du MAP5
+event_url: "https://map5.mi.parisdescartes.fr/seminairesMAP5/exposes/elise-grosjean-felix-klein-zentrum-fur-mathematik-tuk-kaiserslautern-germany/"
 
-location: Kaiserslautern, Germany
+location: Paris
 
-#summary: 
+summary: Présentation sur la méthode de bases réduites 2-grilles appliquée à l'analyse de sensibilité
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2022-11-01"
-date_end: "2022-12-01"
+date: "2022-11-25"
+date_end: "2022-11-25"
 all_day: true
 
 # Schedule page publish date (NOT talk date).
@@ -24,13 +24,13 @@ tags: []
 featured: true
 
 image:
-  caption: 'tuk'
-  focal_point: Right
+  caption: 'MAP5'
+  focal_point: Smart
 
-links:
+links: 
 
 url_code: ""
-url_pdf: ""
+url_pdf: "media/SlidesMAP5.pdf"
 url_slides: ""
 url_video: ""
 
@@ -48,6 +48,4 @@ url_video: ""
 
 ---
 
-Differential-Algebraic Equations
-[Website](https://www.mathematik.uni-kl.de/en/das/teaching
-)
+- [**Presentation**](media/SlidesMAP5.pdf) on the non-intrusive reduced basis 2-grids method applied to sensibility analysis.
