@@ -1,7 +1,7 @@
 ---
-title: CANUM 2022
+title: MAP5
 
-event: Congrès National d'Analyse Numérique 2022
+event: MAP 5 
 event_url: "https://indico.math.cnrs.fr/event/6098/contributions/4869/"
 
 
@@ -11,8 +11,8 @@ summary:
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2022-06-13"
-date_end: "2022-06-17"
+date: "2022-11-25"
+date_end: "2022-11-26"
 all_day: true
 
 # Schedule page publish date (NOT talk date).
