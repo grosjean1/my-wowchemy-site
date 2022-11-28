@@ -2,3 +2,7 @@
 	path = public
 	url = https://github.com/grosjean1/grosjean1.github.io.git
 	branch = main
+[submodule "content/home/public"]
+	path = content/home/public
+	url = https://github.com/grosjean1/grosjean1.github.io.git
+	branch = main
