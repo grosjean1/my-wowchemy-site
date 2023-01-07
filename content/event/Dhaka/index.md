@@ -48,4 +48,3 @@ url_video: ""
 
 ---
 
-- [**Abstract**](https://map5.mi.parisdescartes.fr/seminairesMAP5/exposes/elise-grosjean-felix-klein-zentrum-fur-mathematik-tuk-kaiserslautern-germany/)

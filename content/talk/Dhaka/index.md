@@ -47,5 +47,3 @@ url_video: ""
 #   Otherwise, set `projects = []`.
 
 ---
-
-- [**Abstract**](https://map5.mi.parisdescartes.fr/seminairesMAP5/exposes/elise-grosjean-felix-klein-zentrum-fur-mathematik-tuk-kaiserslautern-germany/)
