@@ -1,8 +1,8 @@
 ---
-title:GAMM Annual Meeting 2023
+title: GAMM Annual Meeting 2023
 
 event: Gesellschaft für angewandte Mathematik und Mechanik
-event_url:https://jahrestagung.gamm-ev.de/annual-meeting-2023/program/program/ 
+event_url: https://jahrestagung.gamm-ev.de/annual-meeting-2023/program/program/ 
 
 location: Dresden (Germany)
 
