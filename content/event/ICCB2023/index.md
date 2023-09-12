@@ -2,7 +2,7 @@
 title: ICCB2023
 
 event:  International Conference on Computational Bioengineering
-event_url: https://iccb2023.conf.tuwien.ac.at/
+event_url: "https://iccb2023.conf.tuwien.ac.at/"
 
 location: Wien (Österreich)
 
