@@ -6,7 +6,7 @@ event_url: https://iccb2023.conf.tuwien.ac.at/
 
 location: Wien (Österreich)
 
-summary: GAMM 2023
+summary: Meniscus tissue regeneration and sensitivity RB approach
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
