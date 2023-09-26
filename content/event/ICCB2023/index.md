@@ -26,7 +26,7 @@ featured: true
 image:
   caption: 'ICCB2023'
   focal_point: Smart
-
+  
 links:
 
 url_code: ""

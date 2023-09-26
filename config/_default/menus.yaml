@@ -35,4 +35,8 @@ main:
 
   - name: google
     url: google0eca90bf5d4cf0c4.html
+    weight: 90
+
+  - name: Miscellaneous
+    url: uploads/Drawings.pdf
     weight: 100
