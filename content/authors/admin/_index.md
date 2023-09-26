@@ -23,9 +23,9 @@ bio: My research interests include numerics, P.D.E analysis, Reduced basis metho
 # Interests to show in About widget
 interests:
 - Finite elements/volume methods
-- Computational Languages
+- Programming Languages
 - Simulations of highly parameterized models from Physics/Biology 
-- Function approximations
+- Inverse problems
 - Reduced Order methods
 
 # Education to show in About widget
@@ -35,7 +35,7 @@ education:
   - course: PhD in Applied Mathematics
     institution: Jacques-Louis Lions laboratory (LJLL)
     year: 11/2018-03/2022
-  - course: Master in modeling mathematics
+  - course: Master in mathematics of modeling
     institution: Pierre et Marie Curie university (UPMC)
     year:  2015 - 2018
   - course: Engineer school in Applied Mathematics and Computer Science

@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "A mathematical model for meniscus cartilage regeneration (preprint)"
+title: "A mathematical model for meniscus cartilage regeneration (PAMM)"
 authors:
 - admin
 - Bernd Simeon
@@ -33,7 +33,7 @@ categories: []
 featured: false
 
 
-url_pdf: 'https://hal.science/hal-04184343'
+url_pdf: 'https://onlinelibrary.wiley.com/doi/full/10.1002/pamm.202300261'
 #url_code:
 #url_dataset:
 #url_project:
