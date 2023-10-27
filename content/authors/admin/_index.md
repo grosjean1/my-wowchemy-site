@@ -14,8 +14,8 @@ role: postdoctoral researcher
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Felix-Klein-Zentrum für Mathematik
-  url: "https://www.felix-klein-zentrum.de"
+- name: inria-saclay
+  url: "https://www.inria.fr/fr/centre-inria-de-saclay"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include numerics, P.D.E analysis, Reduced basis methods.
@@ -73,6 +73,6 @@ email: "grosjean@mathematik.uni-kl.de"
 highlight_name: false
 ---
 
-I am a postdoctoral researcher in applied mathematics at [Felix-Klein-Zentrum für Mathematik](https://www.felix-klein-zentrum.de/).
+I am a postdoctoral researcher in applied mathematics at [Inria Saclay](https://m3disim.saclay.inria.fr/).
 
-My research interests include fluid mechanics, P.D.E analysis, numerical schemes, and reduced order methods.
+My research interests include fluid mechanics, P.D.E analysis, numerical schemes, reduced order methods, and inverse problems.
