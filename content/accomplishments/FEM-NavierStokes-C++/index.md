@@ -32,7 +32,7 @@ links:
 url_code: ""
 url_pdf: ""
 url_slides: ""
-url_video: "LJLL.mp4"
+url_video: "media/LJLL.mp4"
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
