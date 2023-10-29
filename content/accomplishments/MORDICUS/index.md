@@ -29,7 +29,7 @@ image:
 
 links:
 
-url_code: ""
+url_code: "https://gitlab.com/mor_dicus/mordicus"
 url_pdf: ""
 url_slides: ""
 url_video: ""
@@ -48,4 +48,4 @@ url_video: ""
 
 ---
 
-Contribute to an online library with EDF and other partners on non intrusive reduced basis method in Python and C++.
+Contribute to an [online library](https://gitlab.com/mor_dicus/mordicus) with EDF and other partners on non intrusive reduced basis method in Python and C++.
