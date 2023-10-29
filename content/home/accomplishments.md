@@ -31,6 +31,8 @@ item:
   title: Non intrusive reduced basis module.
   url: "https://gitlab.com/mor_dicus/mordicus"
 - #certificate_url: https://www.datacamp.com
+  embed_video: true
+  video: LJLL.mp4
   date_end: ""
   date_start: "2018-03-31"
   description: "Implement the Finite Elements method to solve 2D Navier-Stokes equation in a channel"
