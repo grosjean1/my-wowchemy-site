@@ -33,7 +33,7 @@ item:
 - #certificate_url: https://www.datacamp.com
   date_end: ""
   date_start: "2018-03-31"
-  description: "Implement the Finite Elements method to solve 2D Navier-Stokes equation in a channel {{< video src="LJLL.avi" controls="yes" >}}"
+  description: "Implement the Finite Elements method to solve 2D Navier-Stokes equation in a channel"
   organization: LJLL
   #organization_url: https://www.datacamp.com
   title: 'Finite Elements Method implementation'
