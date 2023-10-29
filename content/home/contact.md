@@ -25,18 +25,18 @@ content:
       captcha: false
 
   # Contact details (edit or remove options as required)
-  email: grosjean@mathematik.uni-kl.de
+  email: elise.grosjean@inria.fr
   #phone: 888 888 88 88
   address:
-    street: Kaiserslautern TU 
-    city: Kaiserslautern
+    street: 1 Rue Honoré d'Estienne d'Orves
+    city: Palaiseau
     #region: 
-    postcode: '67663'
-    country: Germany
-    country_code: Germany
+    postcode:  91120 
+    country: France
+    country_code: 
   coordinates:
-    latitude: '37.4275'
-    longitude: '-122.1697'
+    latitude: '48.713787'
+    longitude: '2.205274'
 
 design:
   columns: '2'
