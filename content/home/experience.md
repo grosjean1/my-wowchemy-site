@@ -22,6 +22,18 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+
+  - title:  POSTDOC
+    company: Inria-Saclay
+    company_url: 'https://www.felix-klein-zentrum.de/'
+    location: Palaiseau, France
+    date_start: '2023-10-01'
+    date_end: ''
+    description: |2-
+        
+        * Inverse problem - wave parameter/initial condition reconstruction with back and forth nudging algorithm
+        
+
   - title:  POSTDOC
     company: Felix-Klein-Zentrum für Mathematik
     company_url: 'https://www.felix-klein-zentrum.de/'
