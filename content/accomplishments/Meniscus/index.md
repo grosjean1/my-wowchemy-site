@@ -47,9 +47,9 @@ url_video: ""
 #   Otherwise, set `projects = []`.
 
 ---
-"Biomedical problem: Meniscus regeneration, multiscale modeling of tissue phenomena. \\
+Biomedical problem: Meniscus regeneration, multiscale modeling of tissue phenomena. 
         
-	** Implement PDEs in FreeFem++ representing a nonwoven scaffold in a novel 3D printed perfusion chamber which is integrated in a bioreactor that allows in-vitro investigations of scaffolds in interaction with chondrocytes and adipose tissue-derived stem cells \\
+	** Implement PDEs in FreeFem++ representing a nonwoven scaffold in a novel 3D printed perfusion chamber which is integrated in a bioreactor that allows in-vitro investigations of scaffolds in interaction with chondrocytes and adipose tissue-derived stem cells 
 
-        ** Sensitivity analysis of the parameters with model order reduction techniques (compared to real data)"
+        ** Sensitivity analysis of the parameters with model order reduction techniques (compared to real data)
 	

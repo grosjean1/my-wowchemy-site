@@ -32,7 +32,7 @@ links:
 url_code: ""
 url_pdf: ""
 url_slides: ""
-url_video: ""
+url_video: "media/LJLL.mp4"
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
@@ -48,4 +48,4 @@ url_video: ""
 
 ---
 
-Implement the [Finite Elements method]({{< video src="LJLL.mp4" controls="yes" >}}) in C++ to solve 2D Navier-Stokes equation in a channel 
+Implement the Finite Elements method in C++ to solve 2D Navier-Stokes equation in a channel 
