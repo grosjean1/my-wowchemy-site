@@ -39,7 +39,7 @@ experience:
     company_url: 'https://www.felix-klein-zentrum.de/'
     location: Kaiserslautern, Deutschland
     date_start: '2022-03-01'
-    date_end: '2023-09-31'
+    date_end: '2023-09-30'
     description: |2-
         
         * 3D meniscus tissue regeneration problem implemented with FreeFem++
