@@ -1,10 +1,10 @@
 ---
-title: 3D Discontinuous Galerkin - Meniscus regeneration macroscopic model simulation
+title: Back and Forth Nudging - Wave equation
 
 event: Simulation in FreeFem++
 event_url:
 
-location: Felix-Klein-Institut für Mathematik
+location: INRIA
 
 summary: 
 
@@ -29,10 +29,10 @@ image:
 
 links:
 
-url_code: "https://github.com/grosjean1/PumpSimulation"
-url_pdf: "https://onlinelibrary.wiley.com/doi/10.1002/pamm.202300261?af=R"
+url_code: "
+url_pdf: ""
 url_slides: ""
-url_video: ""
+url_video: "media/testWave.mp4"
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
@@ -47,11 +47,6 @@ url_video: ""
 #   Otherwise, set `projects = []`.
 
 ---
-Biomedical problem: Meniscus regeneration, multiscale modeling of tissue phenomena. 
-        
-	 Implement PDEs in FreeFem++ representing a nonwoven scaffold in a novel 3D printed perfusion chamber which is integrated in a bioreactor that allows in-vitro investigations of scaffolds in interaction with chondrocytes and adipose tissue-derived stem cells
 
-	 Stimulus via a pump system (fluid-solid interaction)
-
-         Sensitivity analysis of the parameters with model order reduction techniques (compared to real data)
+Initial conditions reconstruction
 	

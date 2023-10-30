@@ -10,9 +10,9 @@ summary:
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: ""
-date_end: ""
-all_day: true
+#date: ""
+#date_end: ""
+#all_day: true
 
 # Schedule page publish date (NOT talk date).
 #publishDate: ""
@@ -29,7 +29,7 @@ image:
 
 links:
 
-url_code: ""
+url_code: "https://github.com/grosjean1/navierStokes"
 url_pdf: ""
 url_slides: ""
 url_video: "media/LJLL.mp4"
