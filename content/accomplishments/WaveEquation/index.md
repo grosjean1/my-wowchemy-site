@@ -34,6 +34,7 @@ url_pdf: ""
 url_slides: ""
 url_video: "media/testWave.mp4"
 
+
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
@@ -49,4 +50,4 @@ url_video: "media/testWave.mp4"
 ---
 
 Initial conditions reconstruction
-	
+[Video in 1D](media/Wave1D.gif)
