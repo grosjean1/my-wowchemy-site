@@ -49,5 +49,5 @@ url_video: "media/testWave.mp4"
 
 ---
 
-Initial conditions reconstruction
-[Video in 1D](media/Wave1D.gif)
+Initial conditions reconstruction with BFN on a bounded domain [0,1] with Dirichlet bnd conditions, FEM P1 and Newmark scheme for time.
+[Video in 1D](media/Wave1D.gif) with an observation of the measurements between [0,0.2] and [0.8,1].
