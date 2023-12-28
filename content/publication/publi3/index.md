@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Error estimate of the Non-Intrusive Reduced Basis (NIRB) two-grid method with parabolic equations, SMAI-JCM 9 (2023) 227--256."
+title: "Error estimate of the Non-Intrusive Reduced Basis (NIRB) two-grid method with parabolic equations, SMAI: JCM 9 (2023) 227-256"
 authors:
 - admin
 - Yvon Maday
@@ -10,7 +10,7 @@ date: "2022-08-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-#publishDate: 2022-02-01T12:46:12+01:00
+#publishDate: 2023-12-21T12:46:12+01:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
