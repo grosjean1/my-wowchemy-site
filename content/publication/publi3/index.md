@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Error estimate of the Non-Intrusive Reduced Basis (NIRB) two-grid method with parabolic equations (preprint)"
+title: "Error estimate of the Non-Intrusive Reduced Basis (NIRB) two-grid method with parabolic equations"
 authors:
 - admin
 - Yvon Maday
@@ -16,7 +16,7 @@ doi: ""
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 # publication: *Error estimate of the Non-Intrusive Reduced Basis (NIRB) two-grid method with parabolic equations*
@@ -32,7 +32,7 @@ categories: []
 featured: false
 
 
-url_pdf: 'https://arxiv.org/abs/2211.08897'
+url_pdf: 'https://smai-jcm.centre-mersenne.org/articles/10.5802/smai-jcm.100/'
 #url_code:
 #url_dataset:
 #url_project:
