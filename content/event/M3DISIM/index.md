@@ -1,5 +1,5 @@
 ---
-title: M3disim2024
+title: Séminaire interne M3DISIM - INRIA
 
 event:  Séminaire interne M3DISIM - INRIA
 event_url: ""

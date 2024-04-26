@@ -1,5 +1,5 @@
 ---
-title: PaulPainLeve2024
+title: Séminaire ANEDP au laboratoire Paul Painlevé
 
 event:  Seminaire a Lille - laboratoire Paul Painlevé
 event_url: "https://math.univ-lille.fr/detail-event/tba-elise-grosjean-inria-saclay"

@@ -1,5 +1,5 @@
 ---
-title: Seminaire Lamfa
+title: Séminaire Lamfa
 
 event:  Seminaire d'Analyse appliquée d'Amiens
 event_url: "https://www.lamfa.u-picardie.fr/seminaire/2024"

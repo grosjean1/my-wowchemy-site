@@ -1,5 +1,5 @@
 ---
-title: Idefix ENSTA 2024
+title: Séminaire Idefix ENSTA 2024
 
 event:  Séminaire IDEFIX
 event_url: "https://uma.ensta-paris.fr/idefix/workgroup.html"
