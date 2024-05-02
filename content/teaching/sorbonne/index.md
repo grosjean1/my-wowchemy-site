@@ -6,7 +6,7 @@ event_url: https://moodle-sciences.upmc.fr/
 
 location: Paris
 
-summary: Talk on Reduced basis method applied to wind farms
+summary: TDs et TPs (monitorat)
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.

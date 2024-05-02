@@ -1,21 +1,21 @@
 ---
-title: Tutor at l'école nationale de la statistique et de l'administration économique (ENSAE)
+title: Tutor at Sorbonne université
 
-event: Numerical analysis and applications
-event_url: https://www.ensae.fr/courses/analyse-numerique-et-applications/
+event: Applied mathematics
+event_url: https://moodle-sciences.upmc.fr/
 
-location: Saclay
+location: Paris
 
-#summary: 
+summary: Talk on Reduced basis method applied to wind farms
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2020-01-01"
-date_end: "2020-05-01"
+date: "2018-09-01"
+date_end: "2021-06-01"
 all_day: true
 
 # Schedule page publish date (NOT talk date).
-#publishDate: "2017-01-01T00:00:00Z"
+#publishDate: ""
 
 authors: [Elise Grosjean]
 tags: []
@@ -24,8 +24,8 @@ tags: []
 featured: true
 
 image:
-  caption: 'ensae'
-  focal_point: Right
+  caption: 'Sorbonne'
+  focal_point: Smart
 
 links:
 
@@ -46,6 +46,16 @@ url_video: ""
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 
+header:
+  caption: ""
+  image: "featured.jpg"
+  
 ---
 
-[ENSAE website](https://www.ensae.fr/courses/analyse-numerique-et-applications/)
+- [**4M026  Approximation des équations aux derivées partielles**](https://www.ljll.math.upmc.fr/kassab/cours.html)
+
+- **Analyse numérique matricielle**, TD/TP L3.
+
+- **Analyse numérique pour les EDO**, TP L3.
+
+- [**Programmation Python**](https://python.guillod.org/)

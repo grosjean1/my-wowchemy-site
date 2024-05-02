@@ -48,4 +48,4 @@ url_video: ""
 
 ---
 
-[Website](https://www.ensae.fr/courses/analyse-numerique-et-applications/)
+[link to ENSAE website](https://www.ensae.fr/courses/analyse-numerique-et-applications/)
