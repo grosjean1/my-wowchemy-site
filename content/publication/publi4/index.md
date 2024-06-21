@@ -1,12 +1,12 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Error estimate of the non-intrusive reduced basis two-grid method applied to sensitivity analysis (preprint)"
+title: "Error estimate of the non-intrusive reduced basis two-grid method applied to sensitivity analysis (M2AN)"
 authors:
 - admin
 - Bernd Simeon
 
-date: "2023-01-01T00:00:00Z"
+date: "2024-01-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -16,7 +16,7 @@ doi: ""
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 # publication: *Error estimate of the Non-Intrusive Reduced Basis (NIRB) two-grid method with parabolic equations*

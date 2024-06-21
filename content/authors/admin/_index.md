@@ -10,15 +10,15 @@ authors:
 superuser: true
 
 # Role/position/tagline
-role: postdoctoral researcher
+role: Assistant Professor
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: inria-saclay
-  url: "https://www.inria.fr/fr/centre-inria-de-saclay"
+- name: UMA at ENSTA-PARIS
+  url: "https://www.ensta-paris.fr"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include numerics, P.D.E analysis, Reduced basis methods.
+bio: My research interests include numerics, P.D.E analysis, Reduced basis methods, inverse problems.
 
 # Interests to show in About widget
 interests:
@@ -26,6 +26,7 @@ interests:
 - Programming Languages
 - Simulations of highly parameterized models from Physics/Biology 
 - Inverse problems
+- Optimal transport
 - Reduced Order methods
 
 # Education to show in About widget
@@ -67,12 +68,12 @@ social:
 
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "grosjean@mathematik.uni-kl.de"
+email: "elise.grosjean@ensta-paris.fr"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 ---
 
-I am a postdoctoral researcher in applied mathematics at [Inria Saclay](https://m3disim.saclay.inria.fr/).
+I am an Assistant Professor in applied mathematics at [ENSTA Paris]("https://www.ensta-paris.fr").
 
 My research interests include fluid mechanics, P.D.E analysis, numerical schemes, reduced order methods, and inverse problems.
