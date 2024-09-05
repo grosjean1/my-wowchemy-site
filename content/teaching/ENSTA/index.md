@@ -53,11 +53,11 @@ url_video: ""
 link to tutorial :
 [ampl](media/ampl_tutorial.pdf)
 and
-[pyampl](media/AMPLPY_tuto.ipynb)
+[pyampl](/media/AMPLPY_tuto.ipynb)
 
 link to first TP: [Gradient Descent TP](media/Gradient_descent-Copy1.ipynb)
 
-link to slides-first part: [slides 1](media/Slide1.pdf)
+link to slides-first part: [slides 1](Slide1.pdf)
 
-link to TP-first part: [slides 1](media/TP1.pdf)
+link to TP-first part: [slides 1](TP1.pdf)
 
