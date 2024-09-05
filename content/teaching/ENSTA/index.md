@@ -48,16 +48,18 @@ url_video: ""
 
 ---
 
-[link to ENSTA course website](https://synapses.ensta-paris.fr/catalogue/2023-2024/ue/791/PGE305-A-optimisation-continue)
+[link to ENSTA course description](https://synapses.ensta-paris.fr/catalogue/2023-2024/ue/791/PGE305-A-optimisation-continue)
 
-link to tutorial :
-[ampl](media/ampl_tutorial.pdf)
-and
-[pyampl](/media/AMPLPY_tuto.ipynb)
 
-link to first TP: [Gradient Descent TP](media/Gradient_descent-Copy1.ipynb)
+- link to tutorial :
+[ampl](ampl_tutorial.pdf)
+and in python
+[pyampl](AMPLPY_tuto.ipynb)
 
-link to slides-first part: [slides 1](Slide1.pdf)
+- link to first TP exercice: [Gradient Descent TP](Gradient_descent-Copy1.ipynb)
 
-link to TP-first part: [slides 1](TP1.pdf)
+- link to slides - part I : [slides 1](Slide1.pdf)
+
+- link to TP - part I: [TP 1](TP1.pdf)
+The goal of this first TP is to know how to launch jupyter notebook, save a notebook, launch amplpy package, model an optimization problem and solve it
 
