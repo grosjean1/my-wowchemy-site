@@ -1,21 +1,21 @@
 ---
-title: Tutor at l'école nationale de la statistique et de l'administration économique (ENSAE)
+title: Teacher at ENSTA-Paris 
 
-event: Numerical analysis and applications
-event_url: https://www.ensae.fr/courses/analyse-numerique-et-applications/
+event:  APM_5EN5A _TA - Optimisation continue
+event_url: https://synapses.ensta-paris.fr/catalogue/2023-2024/ue/791/PGE305-A-optimisation-continue
 
-location: Saclay
+location: Saclay BEM
 
 #summary: 
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: "2020-01-01"
-date_end: "2020-05-01"
+date_end: "2025-05-01"
 all_day: true
 
 # Schedule page publish date (NOT talk date).
-#publishDate: "2017-01-01T00:00:00Z"
+#publishDate: "2024-01-01T00:00:00Z"
 
 authors: [Elise Grosjean]
 tags: []
@@ -24,7 +24,7 @@ tags: []
 featured: true
 
 image:
-  caption: 'ensae'
+  caption: 'ensta'
   focal_point: Right
 
 links:
@@ -48,4 +48,11 @@ url_video: ""
 
 ---
 
-[link to ENSAE website](https://www.ensae.fr/courses/analyse-numerique-et-applications/)
+[link to ENSTA website](https://synapses.ensta-paris.fr/catalogue/2023-2024/ue/791/PGE305-A-optimisation-continue)
+
+link to tutorial :
+[ampl](ampl_tutorial.pdf)
+[pyampl](AMPLPY_tuto.ipynb)
+link to first TP: [Gradient Descent TP](Gradient_descent-Copy1.ipynb)
+link to slides-first part: [slides 1](Slide1.pdf)
+
