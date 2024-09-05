@@ -54,7 +54,7 @@ url_video: ""
 - link to tutorial :
 [ampl](ampl_tutorial.pdf)
 and in python
-[pyampl](AMPLPY_tuto.ipynb)
+[pyampl](notebookAMPLPY/)
 
 - link to first TP exercice: [Gradient Descent TP](Gradient_descent-Copy1.ipynb)
 
