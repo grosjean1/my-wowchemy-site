@@ -51,8 +51,8 @@ url_video: ""
 [link to ENSTA website](https://synapses.ensta-paris.fr/catalogue/2023-2024/ue/791/PGE305-A-optimisation-continue)
 
 link to tutorial :
-[ampl](ampl_tutorial.pdf)
-[pyampl](AMPLPY_tuto.ipynb)
+[ampl](/uploads/ampl_tutorial.pdf)
+[pyampl](uploads/AMPLPY_tuto.ipynb)
 link to first TP: [Gradient Descent TP](Gradient_descent-Copy1.ipynb)
 link to slides-first part: [slides 1](Slide1.pdf)
 
