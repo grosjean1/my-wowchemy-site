@@ -1,5 +1,5 @@
 ---
-title: Teacher at ENSTA-Paris 
+title: APM_5EN5A_TA at ENSTA-Paris 
 
 event:  APM_5EN5A _TA - Optimisation continue
 event_url: https://synapses.ensta-paris.fr/catalogue/2023-2024/ue/791/PGE305-A-optimisation-continue
@@ -48,14 +48,16 @@ url_video: ""
 
 ---
 
-[link to ENSTA website](https://synapses.ensta-paris.fr/catalogue/2023-2024/ue/791/PGE305-A-optimisation-continue)
+[link to ENSTA course website](https://synapses.ensta-paris.fr/catalogue/2023-2024/ue/791/PGE305-A-optimisation-continue)
 
 link to tutorial :
 [ampl](/media/ampl_tutorial.pdf)
 and
-[pyampl](media/AMPLPY_tuto.ipynb)
+[pyampl](/media/AMPLPY_tuto.ipynb)
 
-link to first TP: [Gradient Descent TP](Gradient_descent-Copy1.ipynb)
+link to first TP: [Gradient Descent TP](/media/Gradient_descent-Copy1.ipynb)
 
-link to slides-first part: [slides 1](Slide1.pdf)
+link to slides-first part: [slides 1](/media/Slide1.pdf)
+
+link to TP-first part: [slides 1](/media/TP1.pdf)
 
