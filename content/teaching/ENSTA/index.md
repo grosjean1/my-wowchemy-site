@@ -58,8 +58,8 @@ and in python
 
 - link to first TP exercice: [Gradient Descent TP](/post/notebook2)
 
-- link to slides - part I : [slides 1](Slide1.pdf)
-- link to slides - part II : [slides 1](Slide2.pdf)
+- link to slides - part I : [slides - part 1](Slide1.pdf)
+- link to slides - part II : [slides - part 2](Slides2.pdf)
 
 - link to TP - part I: [TP 1](TP1.pdf)
 The goal of this first TP is to know how to launch jupyter notebook, save a notebook, launch amplpy package, model an optimization problem and solve it
