@@ -56,7 +56,7 @@ url_video: ""
 and in python
 [pyampl](/post/notebook1)
 
-- link to first TP exercice: [Gradient Descent TP](Gradient_descent-Copy1.ipynb)
+- link to first TP exercice: [Gradient Descent TP](/post/notebook2)
 
 - link to slides - part I : [slides 1](Slide1.pdf)
 
