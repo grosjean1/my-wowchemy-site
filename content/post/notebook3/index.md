@@ -28,8 +28,13 @@ image:
 projects: []
 ---
 # Gradient descent with projection and augmented lagrangian algorithm
+{{< math >}}
+$$
+\gamma_{n} = \frac{ \left | \left (\mathbf x_{n} - \mathbf x_{n-1} \right )^T \left [\nabla F (\mathbf x_{n}) - \nabla F (\mathbf x_{n-1}) \right ] \right |}{\left \|\nabla F(\mathbf{x}_{n}) - \nabla F(\mathbf{x}_{n-1}) \right \|^2}
+$$
+{{< /math >}}
 
-To find the infimum of an arbitrary cost function, we use here the gradient descent. Let us consider the function {{< math > $$ f(x,y)=0.5(x^2+(y-1)^2) $$ {{< /math >}} that we aim at minimizing on $K\subset \mathbb{R}^2$ with $K=\{(x,y) |  x= y\}$.
+To find the infimum of an arbitrary cost function, we use here the gradient descent. Let us consider the function $ f(x,y)=0.5(x^2+(y-1)^2) $ that we aim at minimizing on $K\subset \mathbb{R}^2$ with $K=\{(x,y) |  x= y\}$.
 We start by manually compute its gradient and we will display its evolution during gradient descent.
 
 
