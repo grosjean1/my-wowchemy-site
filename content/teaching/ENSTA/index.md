@@ -66,6 +66,6 @@ and in python
 
 - link to TP - part I: [TP 1](TP1.pdf)
 The goal of this first TP is to know how to launch jupyter notebook, save a notebook, launch amplpy package, model an optimization problem and solve it
-- link to TP - part I: [TP 1](TP2.pdf)
+- link to TP - part I: [TP 2](TP2.pdf)
 
-- Un corrigé d'exercice: Exercices_corriges.pdf
+- Un corrigé d'exercice: Corrige(Exercices_corriges.pdf)
