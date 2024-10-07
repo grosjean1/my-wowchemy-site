@@ -68,4 +68,4 @@ and in python
 The goal of this first TP is to know how to launch jupyter notebook, save a notebook, launch amplpy package, model an optimization problem and solve it
 - link to TP - part I: [TP 2](TP2.pdf)
 
-- Un corrigé d'exercice: Corrige(Exercices_corriges.pdf)
+- Un corrigé d'exercice: [Corrige](Exercices_corriges.pdf)
