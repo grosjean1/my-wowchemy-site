@@ -4,7 +4,7 @@ title: Mathematics and Art, exploring connections
 event: Mathematics and Art, exploring connections 
 event_url: 
 
-location: Dhaka
+location: Dhaka, Bangladesh
 
 summary: 
 
