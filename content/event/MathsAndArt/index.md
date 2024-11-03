@@ -1,7 +1,7 @@
 ---
-title: Mathematics and Art: Exploring connections 
+title: Mathematics and Art, exploring connections 
 
-event: Mathematics and Art: Exploring connections 
+event: Mathematics and Art, exploring connections 
 event_url: 
 
 location: Dhaka
@@ -30,7 +30,7 @@ image:
 links:
 
 url_code: ""
-url_pdf: "media/MathsAndArt.pdf"
+url_pdf: "uploads/MathsAndArt.pdf"
 url_slides: ""
 url_video: ""
 
