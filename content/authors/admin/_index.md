@@ -58,7 +58,7 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/grosjean1
-- icon: Coding
+- icon: coding
   icon_pack: fab
   link: https://reducedbasis.github.io
 
