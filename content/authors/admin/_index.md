@@ -58,6 +58,9 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/grosjean1
+- icon: Coding
+  icon_pack: fab
+  link: https://reducedbasis.github.io
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
@@ -77,3 +80,5 @@ highlight_name: false
 I am an Assistant Professor in applied mathematics at [ENSTA Paris]("https://www.ensta-paris.fr").
 
 My research interests include fluid mechanics, P.D.E analysis, numerical schemes, reduced order methods, and inverse problems.
+
+I am currently developping a website on reduced basis methods: [link](https://reducedbasis.github.io).
