@@ -49,7 +49,9 @@ url_video: ""
 ---
 
 - link to slides:
-[slides1](slides1.pdf)
+[slides 1](slides1.pdf)
+[slides 2](slides2.pdf)
 
 - link to first TP: [Dynamic programming](/post/notebookdynprog)
+
 
