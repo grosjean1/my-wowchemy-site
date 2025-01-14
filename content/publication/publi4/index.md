@@ -32,7 +32,7 @@ categories: []
 featured: false
 
 
-url_pdf: 'https://arxiv.org/abs/2301.00761'
+url_pdf: 'https://www.esaim-m2an.org/articles/m2an/abs/2025/01/m2an230015/m2an230015.html'
 #url_code:
 #url_dataset:
 #url_project:
