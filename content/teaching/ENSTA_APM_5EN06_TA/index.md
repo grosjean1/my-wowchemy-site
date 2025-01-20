@@ -64,6 +64,6 @@ url_video: ""
 - link to TP 1: [Dynamic programming](/post/notebookdynprog)
 - link to TP 2: [Dynamic programming and autoregressive processes](/post/tp2ent306)
 - link to TP 3: [Dynamic programming and autoregressive processes](/post/tp3ent306)
-- link to TP 4: [Dynamic programming and autoregressive processes](/post/tp4ent306)
+- link to TP 4: [Supervised classification](/post/tp4ent306)
 
 
