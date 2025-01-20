@@ -53,11 +53,14 @@ url_video: ""
 
 [slides 2](slides3.pdf)
 
+[slides 3](slides4.pdf)
+
 [scenarios.mat for TP2](scenarios.mat)
 
 [Other test](slides2.pdf)
 
-- link to first TP: [Dynamic programming](/post/notebookdynprog)
-- link to second TP: [Dynamic programming and autoregressive processes](/post/tp2ent306)
+- link to TP 1: [Dynamic programming](/post/notebookdynprog)
+- link to TP 2: [Dynamic programming and autoregressive processes](/post/tp2ent306)
+- link to TP 3: [Dynamic programming and autoregressive processes](/post/tp3ent306)
 
 
