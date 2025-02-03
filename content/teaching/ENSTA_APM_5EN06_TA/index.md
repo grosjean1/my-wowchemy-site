@@ -57,6 +57,8 @@ url_video: ""
 
 [slides 4](slides5.pdf)
 
+[slides 5](slides6.pdf)
+
 [scenarios.mat for TP2](scenarios.mat)
 
 [Other test](slides2.pdf)
@@ -65,5 +67,6 @@ url_video: ""
 - link to TP 2: [Dynamic programming and autoregressive processes](/post/tp2ent306)
 - link to TP 3: [Dynamic programming and autoregressive processes](/post/tp3ent306)
 - link to TP 4: [Supervised classification](/post/tp4ent306)
+- link to TP 5: [Supervised classification](/post/tp5)
 
 
