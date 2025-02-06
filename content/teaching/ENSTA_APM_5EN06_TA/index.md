@@ -49,6 +49,8 @@ url_video: ""
 ---
 - Link to the project dataset: [smart_home_device_usage_data.csv](smart_home_device_usage_data.csv)
 
+- Link to the project notebook: [notebook](/post/project)
+
 - link to slides:
 
 [slides 1](slides1.pdf)

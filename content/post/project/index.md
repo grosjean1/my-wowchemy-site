@@ -1,7 +1,7 @@
 ---
 # Documentation: https://docs.hugoblox.com/managing-content/
 
-title: "My Post"
+title: "ENT306"
 subtitle: ""
 summary: ""
 authors: []
