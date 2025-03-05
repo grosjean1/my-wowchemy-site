@@ -10,8 +10,8 @@ sections:
             image:
               # Specify an image from `assets/media/`
               # or delete the image section to remove it
-              filename: 1.png
-        - title: 
+              filename: test.jpg
+        - title: test
           content: 
           align: left
           background:
