@@ -163,7 +163,7 @@ sections:
       columns: '2'
       view: compact
   - block: collection
-    id: miscellaneous
+    id: Miscellaneous
     content:
       title: Miscellaneous
       filters:
