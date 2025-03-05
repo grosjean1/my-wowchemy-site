@@ -6,20 +6,16 @@ sections:
   - block: slider
     content:
       slides:
-        - title: 👋 Welcome to the group
-          content: Take a look at what we're working on...
+        - title: 
+          content: 
           align: center
           background:
             image:
               # Specify an image from `assets/media/`
               # or delete the image section to remove it
               filename: 1.png
-              filters:
-                brightness: 0.7
-            position: right
-            color: '#666'
-        - title: Lunch & Learn ☕️
-          content: 'Share your knowledge with the group and explore exciting new topics together!'
+        - title: 
+          content: 
           align: left
           background:
             image:
@@ -28,8 +24,6 @@ sections:
               filename: 1.png
               filters:
                 brightness: 0.7
-            position: center
-            color: '#555'
         - title: World-Class Semiconductor Lab
           content: 'Just opened last month!'
           align: right
@@ -41,7 +35,6 @@ sections:
               filters:
                 brightness: 0.5
             position: center
-            color: '#333'
           link:
             icon: graduation-cap
             icon_pack: fas
