@@ -6,15 +6,11 @@ sections:
   - block: slider
     content:
       slides:
-        - title: 
-          content: 
-          align: 
-          background:
+        - background:
             image:
               # Specify an image from `assets/media/`
               # or delete the image section to remove it
               filename: 1.png
-	      fit: contain
         - title: 
           content: 
           align: left
