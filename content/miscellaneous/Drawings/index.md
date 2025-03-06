@@ -12,7 +12,7 @@ sections:
             image:
               # Specify an image from `assets/media/`
               # or delete the image section to remove it
-              filename: ../../uploads/Drawings/1.png
+              filename: <img src="/uploads/Drawings/1.png">
               filters:
                 brightness: 0.9
 
