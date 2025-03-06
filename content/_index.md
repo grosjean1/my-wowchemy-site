@@ -168,58 +168,16 @@ sections:
     design:
       columns: '2'
       view: compact
-  - block: slider
-    content:
-      slides:
-        - title: "Slide 1"
-          content: 1.png
-        - title: "Slide 2"
-          content: 1.png
-    design:
-      is_fullscreen: false
-      loop: true
-  - block: hero
-    content:
-      title: 
-      image:
-        # Reference an image in your `assets/media/` folder
-        filename: 1.png
-      # Add your Call-To-Action (CTA) button and optional icon
-      cta:
-        label: 
-        url: 
-        #icon_pack: fas
-        #icon: download
-      # Optionally, add an alternative CTA link
-      cta_alt:
-        label: 
-        url:
-      # Optionally, add a note under the Call-To-Action button
-      cta_note:
-        label: 
-      # Add your Hero text here
-      text: 
-    design:
-      # Choose an optional background color, gradient, image, or video
-      background:
-        gradient_end: 
-        gradient_start: 
-        text_color_light:
-  - block: hero
-    content:
-      title: 
-      image:
-        # Reference an image in your `assets/media/` folder
-        filename: 1.png
-      # Add your Call-To-Action (CTA) button and optional icon 
   - block: collection
     id: Miscellaneous
     content:
-      title: Miscellaneous
+      title: Miscellaneous 
+      subtitle: "I am also an artist. Click on the right to explore my drawings/paintings"
       filters:
         folders:
           - miscellaneous
     design:
+      date: false
       columns: '2'
       view: compact
   - block: contact
