@@ -4,6 +4,12 @@ title: 'Elise Grosjean'
 date: 2022-10-24
 type: landing
 
+styles:
+  - "css/custom.css"
+
+scripts:
+  - "js/slider.js"
+
 sections:
   - block: about.biography
     id: about
@@ -199,6 +205,13 @@ sections:
         gradient_end: 
         gradient_start: 
         text_color_light:
+  - block: hero
+    content:
+      title: 
+      image:
+        # Reference an image in your `assets/media/` folder
+        filename: 1.png
+      # Add your Call-To-Action (CTA) button and optional icon 
   - block: collection
     id: Miscellaneous
     content:
