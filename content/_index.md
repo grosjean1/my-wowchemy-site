@@ -162,6 +162,16 @@ sections:
     design:
       columns: '2'
       view: compact
+  - block: slider
+    content:
+      slides:
+        - title: "Slide 1"
+          content: 1.png
+        - title: "Slide 2"
+          content: 1.png
+    design:
+      is_fullscreen: false
+      loop: true
   - block: collection
     id: Miscellaneous
     content:

@@ -62,6 +62,7 @@ locale:
 # Site features
 
 features:
+  enable_slider: true
   syntax_highlighter:
     theme_light: github-light
     theme_dark: dracula
