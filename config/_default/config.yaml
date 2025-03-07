@@ -5,8 +5,8 @@
 
 title: 'Elise Grosjean' # Website name
 baseURL: 'https://grosjean1.github.io/'
-relativeURLs: true
-uglyURLs: true
+relativeURLs: false
+uglyURLs: false
 
 ############################
 ## LANGUAGE
