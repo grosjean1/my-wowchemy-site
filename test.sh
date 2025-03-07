@@ -5,7 +5,7 @@ FILE="public/miscellaneous/drawings.html"
 
 # Ancienne et nouvelle URL
 OLD_URL="example.com/media/Drawings"
-NEW_URL="grosjean1.github.io/media/Drawings"
+NEW_URL="grosjean1.github.io/uploads/Drawings"
 
 # Vérifier si le fichier existe
 if [ ! -f "$FILE" ]; then

@@ -12,7 +12,7 @@ sections:
             image:
               # Specify an image from `assets/media/`
               # or delete the image section to remove it
-              external: "https://grosjean1.github.io/uploads/Drawings/2.png"
+              image: Drawings/1.png
               filters:
                 brightness: 0.9
 
