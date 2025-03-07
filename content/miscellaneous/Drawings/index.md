@@ -783,6 +783,76 @@ sections:
               filename: Drawings/77.png
               filters:
                 brightness: 0.9
+        - title: 
+          content: 
+          align: left
+          background:
+            image:
+              # Specify an image from `assets/media/`
+              # or delete the image section to remove it
+              filename: Drawings/78.png
+              filters:
+                brightness: 0.9
+        - title: 
+          content: 
+          align: left
+          background:
+            image:
+              # Specify an image from `assets/media/`
+              # or delete the image section to remove it
+              filename: Drawings/79.png
+              filters:
+                brightness: 0.9
+        - title: 
+          content: 
+          align: left
+          background:
+            image:
+              # Specify an image from `assets/media/`
+              # or delete the image section to remove it
+              filename: Drawings/80.png
+              filters:
+                brightness: 0.9
+        - title: 
+          content: 
+          align: left
+          background:
+            image:
+              # Specify an image from `assets/media/`
+              # or delete the image section to remove it
+              filename: Drawings/81.png
+              filters:
+                brightness: 0.9
+        - title: 
+          content: 
+          align: left
+          background:
+            image:
+              # Specify an image from `assets/media/`
+              # or delete the image section to remove it
+              filename: Drawings/82.png
+              filters:
+                brightness: 0.9
+        - title: 
+          content: 
+          align: left
+          background:
+            image:
+              # Specify an image from `assets/media/`
+              # or delete the image section to remove it
+              filename: Drawings/83.png
+              filters:
+                brightness: 0.9
+        - title: 
+          content: 
+          align: left
+          background:
+            image:
+              # Specify an image from `assets/media/`
+              # or delete the image section to remove it
+              filename: Drawings/84.png
+              filters:
+                brightness: 0.9
     design:
       # Slide height is automatic unless you force a specific height (e.g. '400px')
       # Make the slides full screen within the browser window?
