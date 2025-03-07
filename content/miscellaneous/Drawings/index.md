@@ -30,7 +30,6 @@ sections:
               # Specify an image from `assets/media/`
               # or delete the image section to remove it
               filename: Drawings/2.png
-              fit: contain
               filters:
                 brightness: 0.9
         - title: 
@@ -862,5 +861,4 @@ sections:
       loop: false
       # Duration of transition between slides (in ms)
       interval: 2000
-      object-fit: cover
 ---
