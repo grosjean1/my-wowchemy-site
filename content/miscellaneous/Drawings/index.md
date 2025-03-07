@@ -12,7 +12,7 @@ sections:
             image:
               # Specify an image from `assets/media/`
               # or delete the image section to remove it
-              image: "{{ site.Params.baseURL }}/uploads/Drawings/2.png"
+              external: "https://grosjean1.github.io/uploads/Drawings/2.png"
               filters:
                 brightness: 0.9
 
