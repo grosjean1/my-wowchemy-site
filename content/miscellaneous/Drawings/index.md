@@ -13,9 +13,9 @@ sections:
               # Specify an image from `assets/media/`
               # or delete the image section to remove it
               filename: Drawings/1.png
+              fit: cover
               filters:
                 brightness: 0.9
-
           link:
             icon: 
             icon_pack: fas
@@ -25,10 +25,12 @@ sections:
           content: 
           align: left
           background:
+            background-position: center
             image:
               # Specify an image from `assets/media/`
               # or delete the image section to remove it
               filename: Drawings/2.png
+              fit: contain
               filters:
                 brightness: 0.9
         - title: 
@@ -783,12 +785,12 @@ sections:
                 brightness: 0.9
     design:
       # Slide height is automatic unless you force a specific height (e.g. '400px')
-      slide_height: '1000px'
       # Make the slides full screen within the browser window?
+      slide_height: ''
       is_fullscreen: true
       # Automatically transition through slides?
       loop: false
       # Duration of transition between slides (in ms)
       interval: 2000
-      object-fit: contain
+      object-fit: cover
 ---

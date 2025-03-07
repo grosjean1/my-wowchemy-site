@@ -20,26 +20,26 @@ main:
     url: '#talks'
     weight: 40
   - name: Teaching
-    url: 
+    url: '#Teaching'
     weight: 50
   - name: Miscellaneous
     url: '#Miscellaneous'
-    weight: 55
+    weight: 60
   - name: Contact
     url: '#contact'
-    weight: 60
+    weight: 70
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
   - name: CV
     url: uploads/resume.pdf
-    weight: 70
+    weight: 80
 
   - name: Thesis manuscript
     url: uploads/thesis.pdf
-    weight: 80
+    weight: 90
 
   - name: google
     url: google0eca90bf5d4cf0c4.html
-    weight: 90
+    weight: 95
 
