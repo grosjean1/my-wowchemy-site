@@ -852,7 +852,37 @@ sections:
               filename: Drawings/84.png
               filters:
                 brightness: 0.9
-    design:
+        - title: 
+          content: 
+          align: left
+          background:
+            image:
+              # Specify an image from `assets/media/`
+              # or delete the image section to remove it
+              filename: Drawings/85.png
+              filters:
+                brightness: 0.9
+        - title: 
+          content: 
+          align: left
+          background:
+            image:
+              # Specify an image from `assets/media/`
+              # or delete the image section to remove it
+              filename: Drawings/86.png
+              filters:
+                brightness: 0.9
+        - title: 
+          content: 
+          align: left
+          background:
+            image:
+              # Specify an image from `assets/media/`
+              # or delete the image section to remove it
+              filename: Drawings/87.png
+              filters:
+                brightness: 0.9
+design:
       # Slide height is automatic unless you force a specific height (e.g. '400px')
       # Make the slides full screen within the browser window?
       slide_height: ''
