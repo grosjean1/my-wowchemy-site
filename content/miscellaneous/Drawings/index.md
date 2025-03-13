@@ -882,7 +882,7 @@ sections:
               filename: Drawings/87.png
               filters:
                 brightness: 0.9
-design:
+    design:
       # Slide height is automatic unless you force a specific height (e.g. '400px')
       # Make the slides full screen within the browser window?
       slide_height: ''
