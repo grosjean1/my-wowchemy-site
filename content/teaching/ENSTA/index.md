@@ -56,7 +56,7 @@ url_video: ""
 and in python
 [pyampl](/post/notebook1)
 
-- link to first TP exercice: [Gradient Descent TP]
+- link to first TP exercice: [Gradient Descent TP](/post/notebook2)
 - link to second TP exercice: [Gradient Descent with Augmented Lagrangian]
 - link to second TP exercice: 
 
@@ -64,7 +64,7 @@ and in python
 - link to slides - part II : [slides - part 2]
 - link to slides - part III : [slides - part 3]
 
-- link to TP - part I: [TP 1]
+- link to TP - part I: [TP 1](TP1.pdf)
 The goal of this first TP is to know how to launch jupyter notebook, save a notebook, launch amplpy package, model an optimization problem and solve it
 - link to TP - part I: [TP 2]
 

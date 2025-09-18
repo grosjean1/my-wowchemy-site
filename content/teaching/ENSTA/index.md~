@@ -56,19 +56,19 @@ url_video: ""
 and in python
 [pyampl](/post/notebook1)
 
-- link to first TP exercice: [Gradient Descent TP](/post/notebook2)
-- link to second TP exercice: [Gradient Descent with Augmented Lagrangian](/post/notebook3)
-- link to second TP exercice: [Gradient Descent with Augmented Lagrangian (correction)](/post/notebook4)
+- link to first TP exercice: [Gradient Descent TP]
+- link to second TP exercice: [Gradient Descent with Augmented Lagrangian]
+- link to second TP exercice: 
 
-- link to slides - part I : [slides - part 1](Slide1.pdf)
-- link to slides - part II : [slides - part 2](Slides2.pdf)
-- link to slides - part III : [slides - part 3](SLIDES-PART3.pdf)
+- link to slides - part I : [slides - part 1]
+- link to slides - part II : [slides - part 2]
+- link to slides - part III : [slides - part 3]
 
-- link to TP - part I: [TP 1](TP1.pdf)
+- link to TP - part I: [TP 1]
 The goal of this first TP is to know how to launch jupyter notebook, save a notebook, launch amplpy package, model an optimization problem and solve it
-- link to TP - part I: [TP 2](TP2.pdf)
+- link to TP - part I: [TP 2]
 
-- Un corrigé d'exercice: [Corrige](Exercices_corriges.pdf)
-- Slides exercices en cours [ici](SlidesTD.pdf)
-- link to exercice 6 : [exo 6](/post/exo6)
-- link to exercice 7 : [exo 7](/post/exo7)
+- Un corrigé d'exercice: [Corrige]
+- Slides exercices en cours [ici]
+- link to exercice 6 : [exo 6]
+- link to exercice 7 : [exo 7]
