@@ -61,7 +61,7 @@ and in python
 - link to second TP exercice: 
 
 - link to slides - part I : [slides - part 1](Slidev0.pdf)
-- link to slides - part II : [slides - part 2]
+- link to slides - part II : [slides - part 2](Slidev1.pdf)
 - link to slides - part III : [slides - part 3]
 
 - link to TP - part I: [TP 1](TP1.pdf)
