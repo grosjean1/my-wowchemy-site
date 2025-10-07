@@ -70,5 +70,5 @@ The goal of this first TP is to know how to launch jupyter notebook, save a note
 
 - Un corrigé d'exercice: [Corrige]
 - Slides exercices en cours [ici]
-- link to exercice 6 : [exo 6]
-- link to exercice 7 : [exo 7]
+- link to exercice 6 : [exo 6](/post/exo6)
+- link to exercice 7 : [exo 7](/post/exo7)
