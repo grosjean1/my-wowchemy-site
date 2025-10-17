@@ -69,7 +69,7 @@ and in python
 The goal of this first TP is to know how to launch jupyter notebook, save a notebook, launch amplpy package, model an optimization problem and solve it
 - link to TP - part I: [TP 2](TP2.pdf)
 
-- Un corrigé d'exercice: [Corrige]
+- Un corrigé d'exercice: [Corrige](Exercices_corriges.pdf)
 - Slides exercices en cours [ici]
 - link to exercice 6 : [exo 6](/post/exo6)
 - link to exercice 7 : [exo 7](/post/exo7)
