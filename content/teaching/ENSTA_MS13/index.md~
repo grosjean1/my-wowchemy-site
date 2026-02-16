@@ -29,7 +29,7 @@ image:
 
 links:
 
-url_code: "post/notebook1"
+url_code: "post/enstams13tp1"
 url_pdf: ""
 url_slides: ""
 url_video: ""
@@ -48,28 +48,10 @@ url_video: ""
 
 ---
 
-[link to ENSTA course description](https://synapses.ensta-paris.fr/catalogue/2023-2024/ue/791/PGE305-A-optimisation-continue)
-
-
-- link to tutorial :
-[ampl](ampl_tutorial.pdf)
-and in python
-[pyampl](/post/notebook1)
-
-- link to first TP exercice: [Gradient Descent TP](/post/notebook2)
-- link to second TP exercice: [Gradient Descent with Augmented Lagrangian](/post/notebook3)
+- link to first TP exercice: [Galerkin-POD + TPFA Finite volume scheme](/post/enstams13tp1)
 - link to second TP exercice: 
 
-- link to slides - part I : [slides - part 1](Slidev0.pdf)
-- link to slides - part II : [slides - part 2](Slidev1.pdf)
-- link to slides - part III : [slides - part 3](Slidev2.pdf)
-- link to slides - part III : [slides - part 4](Slidev3.pdf)
 
-- link to TP - part I: [TP 1](TP1.pdf)
-The goal of this first TP is to know how to launch jupyter notebook, save a notebook, launch amplpy package, model an optimization problem and solve it
-- link to TP - part I: [TP 2](TP2.pdf)
+- link to slides - part I : [slides - part 1](talkRBcourse.pdf)
+- link to slides - part II :
 
-- Un corrigé d'exercice: [Corrige](Exercices_corriges.pdf)
-- Slides exercices en cours [ici]
-- link to exercice 6 : [exo 6](/post/exo6)
-- link to exercice 7 : [exo 7](/post/exo7)
