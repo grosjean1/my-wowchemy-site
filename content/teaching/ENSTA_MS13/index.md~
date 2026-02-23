@@ -1,8 +1,9 @@
----
-title: APM_5EN5A_TA at ENSTA-Paris 
 
-event:  APM_5EN5A _TA - Optimisation continue
-event_url: https://synapses.ensta-paris.fr/catalogue/2023-2024/ue/791/PGE305-A-optimisation-continue
+---
+title: MS13 at ENSTA-Paris 
+
+event:  MS13 Reduced Basis Methods
+event_url: 
 
 location: Saclay BEM
 
@@ -10,8 +11,8 @@ location: Saclay BEM
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2020-01-01"
-date_end: "2025-05-01"
+date: "2025-01-01"
+date_end: "2026-05-01"
 all_day: true
 
 # Schedule page publish date (NOT talk date).
