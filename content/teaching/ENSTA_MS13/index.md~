@@ -54,5 +54,5 @@ url_video: ""
 
 
 - link to slides - part I : [slides - part 1](talkRBcourse.pdf)
-- link to slides - part II :
+- link to slides - part II :[slides - part 2](talkRBcourse2_nocorr.pdf)
 
