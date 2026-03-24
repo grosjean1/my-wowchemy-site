@@ -51,9 +51,11 @@ url_video: ""
 
 - link to first TP exercice: [Galerkin-POD + TPFA Finite volume scheme](/post/enstams13tp1)
 - link to second TP exercice: [Kolmogorov](/post/enstams13tp2)
-
+- link to second TP exercice: [Galerkin-POD + FEM 1d](/post/enstams13tp3)
+- link to second TP exercice: [Galerkin-POD + FEM 2d + aposteriori](/post/enstams13tp4)
 
 - link to slides - part I : [slides - part 1](talkRBcourse.pdf)
 - link to slides - part II :[slides - part 2](talkRBcourse2_nocorr.pdf)
 - link to slides - part III :[slides - part 3](talkRBcourse3.pdf)
+- link to slides - part III :[slides - part 4](talkRBcourse4.pdf)
 
