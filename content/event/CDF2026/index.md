@@ -1,7 +1,7 @@
 ---
 title: Symposium Mathematical and applied aspects of complexity reduction methods
 
-event: A doubly reduced approximation for the solution to PDE’s based on a domain truncation and a reduced basis method: Application to Navier-Stokes equations
+event: A doubly reduced approximation for the solution to PDEs based on a domain truncation and a reduced basis method, application to Navier-Stokes equations
 event_url: 
 
 location: College de France
