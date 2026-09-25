@@ -60,10 +60,10 @@ and in python
 - link to second TP exercice: [Gradient Descent with Augmented Lagrangian](/post/notebook3)
 - link to second TP exercice: 
 
-- link to slides - part I : [slides - part 1](Slidev0.pdf)
-- link to slides - part II : [slides - part 2](Slidev1.pdf)
-- link to slides - part III : [slides - part 3](Slidev2.pdf)
-- link to slides - part III : [slides - part 4](Slidev3.pdf)
+- link to slides - part I : [slides - part 1]
+- link to slides - part II : [slides - part 2]
+- link to slides - part III : [slides - part 3]
+- link to slides - part III : [slides - part 4]
 
 - link to TP - part I: [TP 1](TP1.pdf)
 The goal of this first TP is to know how to launch jupyter notebook, save a notebook, launch amplpy package, model an optimization problem and solve it
