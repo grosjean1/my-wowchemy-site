@@ -60,7 +60,7 @@ and in python
 - link to second TP exercice: [Gradient Descent with Augmented Lagrangian](/post/notebook3)
 - link to second TP exercice: 
 
-- link to slides - part I : [slides - part 1]
+- link to slides - part I : [slides - part 1](Slidesv0.pdf)
 - link to slides - part II : [slides - part 2]
 - link to slides - part III : [slides - part 3]
 - link to slides - part III : [slides - part 4]
