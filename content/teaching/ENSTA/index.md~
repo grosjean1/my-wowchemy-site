@@ -57,6 +57,7 @@ and in python
 [pyampl](/post/notebook1)
 
 - link to first TP exercice: [Gradient Descent TP](/post/notebook2)
+- link to first TP exercice: [Gradient Descent + Newton TP](/post/newton)
 - link to second TP exercice: [Gradient Descent with Augmented Lagrangian](/post/notebook3)
 - link to second TP exercice: 
 
