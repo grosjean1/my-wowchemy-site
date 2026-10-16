@@ -64,7 +64,7 @@ and in python
 
 - link to slides - part I : [slides - part 1](Slidesv0.pdf)
 - link to slides - part II : [slides - part 2](Slidesv1.pdf)
-- link to slides - part III : [slides - part 3]
+- link to slides - part III : [slides - part 3](Slidesv2.pdf)
 - link to slides - part III : [slides - part 4]
 
 - link to TP - part I: [TP 1](TP1.pdf)
