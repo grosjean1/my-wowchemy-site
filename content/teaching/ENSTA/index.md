@@ -72,6 +72,8 @@ The goal of this first TP is to know how to launch jupyter notebook, save a note
 - link to TP - part I: [TP 2](TP2.pdf)
 
 - Un corrigé d'exercice: [Corrige](Exercices_corriges.pdf)
+- Des exercices corrigés: [Corrige](Exercices_corriges2.pdf)
+- Examen 2025: [Exam](exam2025.pdf)
 - Slides exercices en cours [ici]
 - link to exercice 6 : [exo 6](/post/exo6)
 - link to exercice 7 : [exo 7](/post/exo7)
