@@ -65,7 +65,7 @@ and in python
 - link to slides - part I : [slides - part 1](Slidesv0.pdf)
 - link to slides - part II : [slides - part 2](Slidesv1.pdf)
 - link to slides - part III : [slides - part 3](Slidesv2.pdf)
-- link to slides - part III : [slides - part 4]
+- link to slides - part III : [slides - part 4](Slidesv3.pdf)
 
 - link to TP - part I: [TP 1](TP1.pdf)
 The goal of this first TP is to know how to launch jupyter notebook, save a notebook, launch amplpy package, model an optimization problem and solve it
@@ -74,6 +74,7 @@ The goal of this first TP is to know how to launch jupyter notebook, save a note
 - Un corrigé d'exercice: [Corrige](Exercices_corriges.pdf)
 - Des exercices corrigés: [Corrige](Exercices_corriges2.pdf)
 - Examen 2025: [Exam](exam2025.pdf)
+- Exam 2025 in English: [Exam](exam2025_english.pdf)
 - Slides exercices en cours [ici]
 - link to exercice 6 : [exo 6](/post/exo6)
 - link to exercice 7 : [exo 7](/post/exo7)
